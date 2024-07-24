@@ -1316,7 +1316,7 @@ ProductItem-details
                           <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
                             <p class="" style="white-space:pre-wrap;"><a href="https://wd808-te.lat/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
-                          <a href="/" rel="nofollow">
+                          <a href="https://wdlogin.pages.dev/amp/" target="_blank" rel="nofollow noreferrer noopener">
                           <div class="ProductItem-quantity-add-to-cart">
                             <div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
                               <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="66a0cc49a4ab3e747069e32e" data-item-id="66a0cc4ca4ab3e747069e333" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
