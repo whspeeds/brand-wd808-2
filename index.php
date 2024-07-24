@@ -1314,7 +1314,7 @@ ProductItem-details
                             <div class="pdp-overlay"></div>
                           </div>
                           <div class="ProductItem-details-excerpt ProductItem-details-excerpt-below-price" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-te.lat/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                           <a href="/" rel="nofollow">
                           <div class="ProductItem-quantity-add-to-cart">
@@ -1325,10 +1325,10 @@ ProductItem-details
                             </div>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-to-cart" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;"><a href="https://wd808-te.lat/">WD808</a> adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-te.lat/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                           <div class="ProductItem-details-excerpt-below-add-ons" data-content-field="excerpt">
-                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, WD808 hanya menediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
+                            <p class="" style="white-space:pre-wrap;">WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi! Kami mengedepankan pelayanan dan kepuasan member dalam bermain. Semua permainan termasuk slot online tersedia. Namun, <a href="https://wd808-te.lat/">WD808</a> hanya menyediakan slot dengan tingkat winrate paling tinggi dan dikenal gacor saja.</p>
                           </div>
                         </div>
                       </section>
