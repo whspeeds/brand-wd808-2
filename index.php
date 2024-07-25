@@ -15,7 +15,7 @@
     <meta property="og:url" content="https://wd808-x8.buzz/" />
     <meta property="og:type" content="product" />
     <meta property="og:description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
-    <meta property="og:image" content="http://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w" />
+    <meta property="og:image" content="img/wd808-maxwin.webp?format=1500w" />
     <meta property="og:image:width" content="1000" />
     <meta property="og:image:height" content="1000" />
     <meta property="product:price:amount" content="10000.00" />
@@ -24,11 +24,11 @@
     <meta itemprop="name" content="Official Website WD808 - Tempat bertaruh sering menang!" />
     <meta itemprop="url" content="https://wd808-x8.buzz/" />
     <meta itemprop="description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
-    <meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w" />
-    <link rel="image_src" href="https://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w" />
-    <meta itemprop="image" content="http://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w" />
+    <meta itemprop="thumbnailUrl" content="img/wd808-maxwin.webp?format=1500w" />
+    <link rel="image_src" href="img/wd808-maxwin.webp?format=1500w" />
+    <meta itemprop="image" content="img/wd808-maxwin.webp?format=1500w" />
     <meta name="twitter:title" content="Official Website WD808 - Tempat bertaruh sering menang!" />
-    <meta name="twitter:image" content="http://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w" />
+    <meta name="twitter:image" content="img/wd808-maxwin.webp?format=1500w" />
     <meta name="twitter:url" content="https://wd808-x8.buzz/" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!" />
@@ -608,7 +608,7 @@
     <script type="application/ld+json">
       {
         "name": "Official Website WD808 - Tempat bertaruh sering menang!",
-        "image": "http://static1.squarespace.com/static/66a0cbbdb675d660677e32a0/66a0cc49a4ab3e747069e32e/66a0cc4ca4ab3e747069e333/1721814251139/bannerwd808-02.png?format=1500w",
+        "image": "img/wd808-maxwin.webp?format=1500w",
         "description": "WD808 adalah situs resmi judi online. Tempat bertaruh uang nyata dengan potensi kemenangan tinggi!",
         "brand": "WD808",
         "offers": {
@@ -1229,10 +1229,10 @@ product-layout-side-by-side
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
                           <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=66a0cc653f694a3043ed09fd data-controller="ImageZoom" data-slide-url="https://wd808-x8.buzz/" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-66a0cc653f694a3043ed09fd" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" elementtiming="nbf-products-gallery" />
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-66a0cc653f694a3043ed09fd" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="img/wd808-maxwin.webp" data-image="img/wd808-maxwin.webp" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" elementtiming="nbf-products-gallery" />
                             <span id="ProductItem-gallery-slides-item-1-index-66a0cc653f694a3043ed09fd" style="display: none;"> Image 1 of </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
-                              <img data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" elementtiming="nbf-products-gallery-zoom" />
+                              <img data-load="false" data-src="img/wd808-maxwin.webp" data-image="img/wd808-maxwin.webp" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" elementtiming="nbf-products-gallery-zoom" />
                             </div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
@@ -1254,7 +1254,7 @@ product-layout-side-by-side
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
-                                          <img data-src="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image="https://images.squarespace-cdn.com/content/v1/66a0cbbdb675d660677e32a0/1721814121887-PXU1QQISC7DP9H27UG1X/bannerwd808-02.png" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" data-load="false" elementtiming="nbf-product-lightbox" />
+                                          <img data-src="img/wd808-maxwin.webp" data-image="img/wd808-maxwin.webp" data-image-dimensions="1000x1000" data-image-focal-point="0.5,0.5" alt="bannerwd808-02.png" data-load="false" elementtiming="nbf-product-lightbox" />
                                         </div>
                                       </div>
                                     </div>
